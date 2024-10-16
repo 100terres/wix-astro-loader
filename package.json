@@ -1,0 +1,21 @@
+{
+  "name": "wix-astro-loader",
+  "author": "Gab <gab@100terres.com>",
+  "version": "0.0.1-alpha.0",
+  "description": "Wix integration with Astro Content Layer.",
+  "keywords": ["astro-loader", "astro", "wix"],
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "homepage": "https://github.com/100terres/wix-astro-loader",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/100terres/wix-astro-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/100terres/wix-astro-loader/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
